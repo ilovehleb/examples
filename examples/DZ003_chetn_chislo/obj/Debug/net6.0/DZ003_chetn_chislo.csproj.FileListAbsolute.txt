@@ -1,0 +1,15 @@
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\bin\Debug\net6.0\DZ003_chetn_chislo.exe
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\bin\Debug\net6.0\DZ003_chetn_chislo.deps.json
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\bin\Debug\net6.0\DZ003_chetn_chislo.runtimeconfig.json
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\bin\Debug\net6.0\DZ003_chetn_chislo.dll
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\bin\Debug\net6.0\DZ003_chetn_chislo.pdb
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.csproj.AssemblyReference.cache
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.AssemblyInfoInputs.cache
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.AssemblyInfo.cs
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.dll
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\refint\DZ003_chetn_chislo.dll
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.pdb
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\DZ003_chetn_chislo.genruntimeconfig.cache
+C:\Users\Vasiliy\Documents\CS\examples\DZ003_chetn_chislo\obj\Debug\net6.0\ref\DZ003_chetn_chislo.dll
