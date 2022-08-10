@@ -4,12 +4,12 @@ Console.WriteLine("Введите второе число:  ");
 int numB=int.Parse (Console.ReadLine());
 if (numA > numB)
 {
-    Console.WriteLine("Наибольшее число - " + numA + "   Наименьшее число - " + numB);
+    Console.WriteLine("Наибольшее число - " + numA + "." + "   Наименьшее число - " + numB + ".");
 
 }
 else if (numA < numB)
 {
-    Console.WriteLine("Наибольшее число - " + numB + "   Наименьшее число - " + numA);
+    Console.WriteLine("Наибольшее число - " + numB + "." + "   Наименьшее число - " + numA + ".");
 }
 else
 {

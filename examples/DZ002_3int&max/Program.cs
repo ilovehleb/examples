@@ -1,9 +1,9 @@
 ﻿Console.WriteLine("Введите первое число:  ");
-int nA=int.Parse (Console.ReadLine());
+int nA = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число:  ");
-int nB=int.Parse (Console.ReadLine());
+int nB = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите третье число:  ");
-int nC=int.Parse (Console.ReadLine());
+int nC = int.Parse(Console.ReadLine());
 if (nA >= nB && nA >= nC)
 {
     Console.WriteLine("Максимальное число - " + nA);
