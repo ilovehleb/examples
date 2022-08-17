@@ -31,46 +31,46 @@ while True:
     if b=="q" or b=="Q":
         break
     if not b.isdigit():
-        print("\n"
-              'Не является числом!'
+        print("\n",
+              'Не является числом!',
               "\n____________________")
         continue
 
 
     if x=="+":
-        print("\n"
-              "Ответ:  " , int(a)+int(b)
+        print("\n",
+              "Ответ:  " , int(a)+int(b),
               "\n____________________")
 
 
     elif x=="-":
-        print("\n"
-              "Ответ:  ",int(a)-int(b)
+        print("\n",
+              "Ответ:  ",int(a)-int(b),
               "\n____________________")
 
 
     elif x=="*":
-        print("\n"
-              "Ответ:  ",int(a)*int(b)
+        print("\n",
+              "Ответ:  ",int(a)*int(b),
               "\n____________________")
 
 
     elif x=='**':
-        print("\n"
-              "Ответ:  ",int(a)**int(b)
+        print("\n",
+              "Ответ:  ",int(a)**int(b),
               "\n____________________")
 
 
     elif x=='sqrt':
-        print("\n"
-              "Ответ:  ",int(b)**(1/int(a))
+        print("\n",
+              "Ответ:  ",int(b)**(1/int(a)),
               "\n____________________")
     else:
         if b=='0':
             print("Делить на ноль нельзя!")
         else:
-            print("\n"
-                  "Ответ:  ",int(a)/int(b)
+            print("\n",
+                  "Ответ:  ",int(a)/int(b),
                   "\n____________________")
 
 
