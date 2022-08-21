@@ -3,18 +3,23 @@
 
 // [345, 897, 568, 234] -> 2
 
+Console.Clear();
 int size = 10; //можно менять количество символов в массиве.
 int i = 0;
 
 int[] arr = new int[size];
 Random Ran = new Random();
 int counter = 0;
+Console.Write("Числа в массиве :  ");
 for (i = 0; i < size; i++)
 {
     arr[i] = Ran.Next(100, 1000);
-    if (arr[i]%2 == 0) counter++;
+    if (arr[i] % 2 == 0)
+        counter++;
+
     Console.Write($"{arr[i]} ");
-    
+
 }
-Console.WriteLine("");
-Console.WriteLine(counter);
+
+Console.WriteLine();
+Console.WriteLine("Количество четных чисел = " + counter);
