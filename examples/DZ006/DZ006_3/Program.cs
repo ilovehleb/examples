@@ -14,7 +14,7 @@ int FillArray(int[,] array)
   {
     for (int j = 0; j < array.GetLength(1); j++)
     {
-      array[i, j] = new Random().Next(1, 10);
+      array[i, j] = new Random().Next(-10, 11);
       Console.Write(array[i, j] + " ");
       if (i==j) sum=sum+array[i, j];
     }
