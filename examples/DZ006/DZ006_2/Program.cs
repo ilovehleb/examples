@@ -3,13 +3,13 @@
 
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
-void tochka(double k1, double b1,double k2, double b2)
+void tochka(double k1, double b1, double k2, double b2)
 {
     double x;
     double y;
     x = (b2 - b1) / (k1 - k2);
     y = (k1 * (b2 - b1)) / (k1 - k2) + b1;
-    Console.WriteLine("x=" + x +" y=" + y);
+    Console.WriteLine("x=" + x + " y=" + y);
 }
 
 Console.WriteLine("Введите первую координату (b1)");
@@ -20,5 +20,5 @@ Console.WriteLine("Введите первую координату (b2)");
 double b2 = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите первую координату (k2)");
 double k2 = double.Parse(Console.ReadLine());
-tochka(k1,b1,k2,b2);
+tochka(k1, b1, k2, b2);
 
