@@ -36,12 +36,12 @@ void Sum(int[,] array)
     Console.WriteLine();
     for (int j = 0; j < array.GetLength(1); j++)
     {
-        int sum = 0;
+        double sum = 0;
         for (int i = 0; i < array.GetLength(0); i++)
         {
             sum += array[i, j];
         }
-        Console.WriteLine("Сума в колонке (" + (j+1) + ") равна -  " + sum);
+        Console.WriteLine("Среднее арифметическое в колонке [" + (j+1) + "] равно -  " + sum/array.GetLength(0));
     }
 
 }
