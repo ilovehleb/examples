@@ -36,33 +36,33 @@
 
 // FillArray(array);
 
-Console.WriteLine("Введите размер массива -  "); //Программа по выводу четных чисел из массива.
-int x = int.Parse(Console.ReadLine());
-Console.WriteLine();
-int[] array = new int[x];
+// Console.WriteLine("Введите размер массива -  "); //Программа по выводу четных чисел из массива.
+// int x = int.Parse(Console.ReadLine());
+// Console.WriteLine();
+// int[] array = new int[x];
 
 
-int[] Array(int[] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        array[i] = new Random().Next(10, 100);
-        Console.Write(array[i] + " ");
-    }
-    return array;
-}
+// int[] Array(int[] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         array[i] = new Random().Next(10, 100);
+//         Console.Write(array[i] + " ");
+//     }
+//     return array;
+// }
 
 
-void Number(int[] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        if (array[i] % 2 == 0)
-        {
-            Console.Write(array[i] + " ");
-        }
-    }
-}
-Array(array);
-System.Console.WriteLine();
-Number(array);
+// void Number(int[] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         if (array[i] % 2 == 0)
+//         {
+//             Console.Write(array[i] + " ");
+//         }
+//     }
+// }
+// Array(array);
+// System.Console.WriteLine();
+// Number(array);
